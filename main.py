@@ -15,4 +15,6 @@ def speak(tex):
     playsound.playsound(filename)
 
 
-speak("hello")
+speak("hello world")
+
+print("done")
